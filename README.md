@@ -2,7 +2,7 @@
 
 <h1 align="center">Warrior Cats – Iskra Pradawnego Serca</h1>
 
-<p align="center"><b>Wersja testowa 0.2.0</b> · Rozdział 1 i Rozdział 2 · Windows 10/11 (64-bit)</p>
+<p align="center"><b>Wersja testowa 0.2.1</b> · Rozdział 1 i Rozdział 2 · Windows 10/11 (64-bit)</p>
 
 Gra akcji RPG w stylu Cat Quest: pixel art, walka w czasie rzeczywistym, zadania i sekrety,
 a do tego **lokalna kooperacja dla 1–4 graczy** na padach lub dwóch zestawach klawiszy na jednej klawiaturze.
@@ -13,8 +13,8 @@ Wejdź w **[Releases → najnowsze wydanie](../../releases/latest)** i pobierz j
 
 | Plik | Co to jest |
 |---|---|
-| `WarriorCats-Setup-0.2.0.exe` | **Instalator** (polecany) – instaluje grę, tworzy skrót na pulpicie i w menu Start. Nie wymaga uprawnień administratora. |
-| `WarriorCats-0.2.0-bez-instalacji.zip` | Wersja bez instalacji – rozpakuj i uruchom `WarriorCats.exe`. |
+| `WarriorCats-Setup-0.2.1.exe` | **Instalator** (polecany) – instaluje grę, tworzy skrót na pulpicie i w menu Start. Nie wymaga uprawnień administratora. |
+| `WarriorCats-0.2.1-bez-instalacji.zip` | Wersja bez instalacji – rozpakuj i uruchom `WarriorCats.exe`. |
 
 > **Windows może ostrzec** („System Windows ochronił ten komputer”), bo gra nie ma płatnego podpisu cyfrowego.
 > Kliknij **Więcej informacji → Uruchom mimo to**.
@@ -29,6 +29,7 @@ Rudy wyrusza ratować swój świat, w którym gasną pradawne kryształy:
 
 Cztery klasy (Rycerz, Łucznik, Mag, Uzdrowicielka), rozwój postaci punktami cech, ekwipunek z sześcioma miejscami
 i przedmiotami zwykłymi, rzadkimi i legendarnymi, bossowie, sekrety, Dziennik zadań i zapis postępu każdej postaci.
+Do domów w osadach można wchodzić (i zaglądać do skrzynek), a w jaskiniach czekają 3 fale wrogów i skrzynia z rzadkim łupem.
 
 <p align="center">
   <img src="screenshots/menu.png" width="49%"> <img src="screenshots/osada.png" width="49%">
